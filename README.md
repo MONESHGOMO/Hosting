@@ -177,4 +177,3 @@ DELETE /api/users/{id}
 
 ```
 
-***Made with ❤️ You can we can***
